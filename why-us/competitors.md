@@ -33,6 +33,13 @@ Last reviewed: March 2026
 **Weaknesses**: Voice-first — digital channels are secondary, not native
 **Threat level**: Medium. Overlaps on no-code and compliance but voice-centric.
 
+### Retell AI — retellai.com ⚠️ Watch closely
+**Positioning**: "3rd Gen Voice AI" — LLM-powered phone agents with human-like conversation quality.
+**Channels**: Voice (primary), chat, SMS, API
+**Strengths**: ~600ms latency, drag-and-drop agent builder, simulation testing before launch, HIPAA + SOC2 Type II + GDPR, deep integration ecosystem (Salesforce, HubSpot, Twilio, Genesys, Five9, Amazon Connect), strong enterprise ROI proof ($280k/month collections at scale, 50%+ support cost reduction)
+**Weaknesses**: Voice-centric — no email or WhatsApp. Requires more technical configuration than Solvea. Enterprise pricing, not SMB-friendly.
+**Threat level**: High and rising. Targets the same industries (healthcare, home services, retail, hospitality) and is investing heavily in conversation quality as a moat. Their "3rd Gen" framing positions older no-code tools — including potential perception of Solvea — as legacy.
+
 ---
 
 ## Category 3: AI Helpdesk & Chat Platforms
@@ -74,6 +81,7 @@ Last reviewed: March 2026
 | My AI Front Desk | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | Not disclosed |
 | Bland AI | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | SOC2 |
 | Synthflow | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | SOC2, HIPAA, PCI |
+| Retell AI | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | SOC2, HIPAA, GDPR |
 | Intercom | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | Enterprise |
 | Tidio | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | Not disclosed |
 | Smith.ai | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | Not disclosed |
