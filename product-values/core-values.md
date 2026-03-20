@@ -1,21 +1,23 @@
 # Product Values
 
-These are the principles that define how Solvea is built and communicated. Every feature, message, and decision should reflect these values.
+These values describe what customers experience when they use Solvea — not what we build, but what they feel and gain.
 
-## 1. Simplicity First
-Complexity is the enemy of adoption. Solvea removes every unnecessary step — from setup to daily use. If a business owner can't figure it out in minutes, we've failed.
+---
 
-## 2. Always On
-Customers don't keep business hours. Solvea is a 24/7 presence that never calls in sick, never puts someone on hold, and never misses a lead — even at 2am on a Sunday.
+## 1. "I set it up myself, in one sitting."
+Business owners shouldn't need a developer, an onboarding call, or a 40-page manual. When a customer first uses Solvea, they should walk away having deployed a working AI agent — on their own, the same day they signed up.
 
-## 3. Consistency at Scale
-Human teams vary in tone, accuracy, and energy. Solvea ensures every customer interaction is consistent, on-brand, and aligned with how the business wants to present itself — regardless of volume.
+## 2. "My business never goes quiet."
+A missed call is a missed customer. A slow reply is a lost sale. Customers choose Solvea because they're tired of finding out too late that someone reached out and got no response. Solvea makes that feeling go away permanently.
 
-## 4. Accessible to Everyone
-AI shouldn't be a tool only enterprise companies can afford or deploy. Solvea is priced and designed so that a solo freelancer and a 500-person retail chain can both benefit equally.
+## 3. "Every customer gets the same great experience."
+The fifth customer of the day shouldn't get a worse answer than the first. Whether it's 10 interactions or 10,000, every response sounds like it came from someone who knows the business, cares about the customer, and has the right information.
 
-## 5. Real Business Outcomes
-Solvea isn't a tech toy — it's a business tool. Every feature is evaluated by whether it helps businesses answer more customers, book more appointments, reduce costs, or save time.
+## 4. "It works the way my customers already communicate."
+Customers shouldn't have to change how they reach out. Some call. Some text. Some email. Some WhatsApp. Solvea meets them wherever they are — so the business never loses a customer just because they reached out on the "wrong" channel.
 
-## 6. Trust by Default
-Customer data is sensitive. Solvea meets the highest security standards (SOC 2, ISO) so that businesses never have to choose between automation and compliance.
+## 5. "I can see it's actually working."
+Automation that runs silently in the background doesn't build trust. Customers should be able to see exactly what Solvea is doing, how it's performing, and where it's improving — so they feel in control, not dependent on a black box.
+
+## 6. "I trust it with my customers' data."
+Handing customer conversations to an AI is a leap of faith. Solvea earns that trust by meeting the same security standards (SOC 2, ISO) that enterprise companies require — so the decision to automate never feels like a risk.
