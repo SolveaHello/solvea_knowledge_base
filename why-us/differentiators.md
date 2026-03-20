@@ -1,21 +1,39 @@
 # Why Solvea
 
+## Core Positioning
+
+Solvea is the only no-code AI receptionist that covers every channel a customer might use — voice, SMS, email, WhatsApp, LINE, and live chat — from a single platform, built specifically for service businesses.
+
+Most competitors own one channel well. Solvea owns them all.
+
+---
+
 ## Key Differentiators
 
-### 1. Live in Under 3 Minutes
-Most AI tools require developer setup, prompt engineering, or lengthy onboarding. Solvea goes live in under 3 minutes — pick a template, describe your business in plain language, and deploy.
+### 1. Full-Spectrum Multi-Channel Coverage
+Voice-only tools (Bland AI, Synthflow) miss customers who text or email. Chat-only tools (Tidio, Intercom) miss customers who call. My AI Front Desk covers voice, SMS, and web chat — but not email, WhatsApp, or LINE.
 
-### 2. True Multi-Channel Coverage
-Solvea isn't just a chatbot. It handles voice calls, SMS, email, WhatsApp, LINE, and live chat from a single platform — so customers get a consistent experience no matter how they reach out.
+Solvea is the only platform that handles all of them from one place, with one agent, one inbox, and one configuration.
 
-### 3. No-Code, No Compromise
-Powerful automation shouldn't require a technical team. Solvea's Vibe Builder lets any business owner configure a sophisticated AI agent through a simple conversational interface.
+### 2. Built for Service Businesses, Not Generic Support
+Solvea ships with industry-tuned templates for medspas, law firms, restaurants, real estate, barber shops, and more — not a blank-slate chatbot you have to train from scratch. The AI understands booking workflows, industry terminology, and service-specific FAQs from day one.
 
-### 4. Industry-Specific Templates
-Generic AI assistants give generic answers. Solvea ships with pre-built templates tuned for specific industries — from medspas to law firms — so the AI understands your context from day one.
+### 3. Named Enterprise Customers in a No-Code Package
+Solvea is trusted by brands like Anker and Dreame — companies with real customer service scale — while remaining deployable by a solo operator in minutes. That combination (enterprise credibility + SMB accessibility) is rare in this market.
 
-### 5. Enterprise Security, SMB Pricing
-Solvea is SOC 2 certified and ISO certified, verified by Vanta. Businesses get enterprise-grade data protection without enterprise pricing.
+### 4. Unified Inbox Across Every Channel
+All conversations — regardless of channel — land in one centralized inbox. No toggling between a phone dashboard, an email client, and a chat tool. One view of every customer, every interaction.
 
-### 6. Free to Start, No Card Required
-11,000 free credits on signup. A 7-day free phone number. Handles up to 50 customers for free. There's no risk to getting started.
+### 5. Enterprise Security Without Enterprise Pricing
+SOC 2 certified, ISO certified, verified by Vanta. Competitors like My AI Front Desk and Tidio do not publicly match this compliance stack. For businesses in healthcare, legal, or finance, this is a hard requirement — and Solvea meets it without enterprise contracts.
+
+---
+
+## What We Don't Compete On
+
+These are table stakes in 2025/2026 — true for us and our competitors. We should not lead with these:
+
+- **Fast setup** — every player claims under 5 minutes
+- **No-code builder** — Synthflow, Tidio, My AI Front Desk all have this
+- **Free trial / no card required** — standard across the category
+- **24/7 availability** — assumed by all AI tools
