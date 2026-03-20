@@ -1,23 +1,23 @@
 # Product Values
 
-These values describe what customers experience when they use Solvea — not what we build, but what they feel and gain.
+Written from the perspective of a service SMB owner — a hotel manager, medspa founder, restaurant owner, or law firm operator. These are the outcomes they care about, in the language they use to describe their problems.
 
 ---
 
-## 1. "I set it up myself, in one sitting."
-Business owners shouldn't need a developer, an onboarding call, or a 40-page manual. When a customer first uses Solvea, they should walk away having deployed a working AI agent — on their own, the same day they signed up.
+## 1. "I stopped losing bookings I didn't even know I was losing."
+Every unanswered call, every message left on read overnight, every inquiry that never got a reply — that's revenue that walked out the door silently. Solvea makes sure nothing falls through the cracks, so owners stop discovering missed opportunities after the fact.
 
-## 2. "My business never goes quiet."
-A missed call is a missed customer. A slow reply is a lost sale. Customers choose Solvea because they're tired of finding out too late that someone reached out and got no response. Solvea makes that feeling go away permanently.
+## 2. "It's like hiring a receptionist who never has a bad day."
+Good front desk staff are hard to find and hard to keep. And even the best ones get tired, go on leave, or have off days. Solvea gives every customer the same warm, accurate, on-brand response — whether it's the first call of the morning or the last message at midnight.
 
-## 3. "Every customer gets the same great experience."
-The fifth customer of the day shouldn't get a worse answer than the first. Whether it's 10 interactions or 10,000, every response sounds like it came from someone who knows the business, cares about the customer, and has the right information.
+## 3. "I cut my front desk costs without cutting the experience."
+Hiring, training, and retaining reception staff is expensive. Solvea handles the high-volume, repetitive work — answering FAQs, confirming bookings, routing inquiries — so owners can run leaner without customers ever noticing a difference.
 
-## 4. "It works the way my customers already communicate."
-Customers shouldn't have to change how they reach out. Some call. Some text. Some email. Some WhatsApp. Solvea meets them wherever they are — so the business never loses a customer just because they reached out on the "wrong" channel.
+## 4. "My customers can reach me however they want."
+Some guests call. Some text. Some WhatsApp. Some email. Forcing them to use one channel means losing the ones who don't. Solvea responds on every channel, so the business is reachable to every type of customer — not just the ones willing to pick up a phone.
 
-## 5. "I can see it's actually working."
-Automation that runs silently in the background doesn't build trust. Customers should be able to see exactly what Solvea is doing, how it's performing, and where it's improving — so they feel in control, not dependent on a black box.
+## 5. "I'm not flying blind anymore."
+Owners shouldn't have to wonder how many calls were missed, how many bookings were captured, or how the AI is actually performing. Solvea shows exactly what's happening — so it feels like a tool they control, not a system they just hope is working.
 
-## 6. "I trust it with my customers' data."
-Handing customer conversations to an AI is a leap of faith. Solvea earns that trust by meeting the same security standards (SOC 2, ISO) that enterprise companies require — so the decision to automate never feels like a risk.
+## 6. "I trusted it with my customers and it delivered."
+Handing customer conversations to an AI is not a small decision for a business built on personal service. Solvea earns that trust — with SOC 2 and ISO certification, and responses that reflect the business's tone and values, not a generic script.
